@@ -1,6 +1,8 @@
 # Radial Controls for jQuery
 
-Turn an ordinary list into a cool radial control
+Turn an ordinary list into a cool radial control.
+
+This is very rough right now!
 
 DEMO:
 
